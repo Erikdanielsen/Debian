@@ -10,6 +10,8 @@ open start-> settings-> keyboard and add a new key for opening the terminal. Set
      Name:     Terminal
      Command:  gnome-terminal
      Shortcut: ctrl + alt + t
+     
+     NB! I prefer the XFCE4 terminal, it can be changed to transparent and have a lot of freedom when it comes to settings. 
   
 # update system
     Sudo apt-get update
@@ -28,3 +30,15 @@ open start-> settings-> keyboard and add a new key for opening the terminal. Set
      - User theme
      - Hide Activities button (by richardfsr)
      - No topleft hot corner (by azuri)
+     - topicon plus
+     
+     # Themes
+     For themes there are a couple i like, go ahead and create the .themes folder and .icons folder in the Home directory. Then download      and add to relevant folder the following themes:
+          - 
+
+# Remove application menu from top bar
+Go to Tweak tool -> Top bar, and then remove "show application menu"
+
+# Uninstall bloat software
+
+# Install software
