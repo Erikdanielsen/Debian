@@ -2,8 +2,8 @@
 
 Setting up Debian:
 
-Before install:
-- Installing debian without inserting a password in the root password field will enable sudo command for user.
+Post install:
+Installing debian without inserting a password in the root password field will enable sudo command for user.
 
 # Enable ctl+alt+del to open terminal
 open start-> settings-> keyboard and add a new key for opening the terminal. Settings for the shortcutt:
@@ -20,3 +20,11 @@ open start-> settings-> keyboard and add a new key for opening the terminal. Set
     sudo apt-get install command-not-found
     sudo update-command-not-found
     Sudo apt-get install --install-suggests
+    
+# Setting up Theme and extensions
+     # Extension(s)
+     Install by going to "Tweak tool" -> Extensions and install the following:
+     - Dash to Dock (by michele_g)
+     - User theme
+     - Hide Activities button (by richardfsr)
+     - No topleft hot corner (by azuri)
