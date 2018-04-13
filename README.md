@@ -46,3 +46,8 @@ Go to Tweak tool -> Top bar, and then remove "show application menu"
 # Uninstall bloat software
 
 # Install software
+
+
+# How to change filepath for documents, images and so on
+Type in the folowing in the terminal: sudo gedit ~/.config/user-dirs.dirs , When this is done type in the filepath you want.
+
