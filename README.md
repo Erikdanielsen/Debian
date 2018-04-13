@@ -11,7 +11,7 @@ open start-> settings-> keyboard and add a new key for opening the terminal. Set
      Command:  gnome-terminal
      Shortcut: ctrl + alt + t
      
-     NB! I prefer the XFCE4 terminal, it can be changed to transparent and have a lot of freedom when it comes to settings. 
+     NB, I prefer the XFCE4 terminal, it can be changed to transparent and have a lot of freedom when it comes to settings. (command is      XFCE4-terminal)
   
 # update system
     Sudo apt-get update
