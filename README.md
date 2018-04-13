@@ -34,7 +34,11 @@ open start-> settings-> keyboard and add a new key for opening the terminal. Set
      
      # Themes
      For themes there are a couple i like, go ahead and create the .themes folder and .icons folder in the Home directory. Then download      and add to relevant folder the following themes:
-          - 
+          - Gnome-OS-ll-2-6 (gtk+)
+          - macOSX (icons) 
+          - Human-BLACK (Shell)
+          
+     These themes are stored in dropbox.
 
 # Remove application menu from top bar
 Go to Tweak tool -> Top bar, and then remove "show application menu"
